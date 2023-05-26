@@ -3,4 +3,4 @@
 Consulta el sitio en: https://turismodearkham2.netlify.app
 
 Versión de la PEC 1: https://github.com/LadyAnaila/Herramientas-HTML-y-CSS-PEC-1.git 
-Disponible en: https://turismodearkham2.netlify.app
+Disponible en: https://turismodearkham.netlify.app
